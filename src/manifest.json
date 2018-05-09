@@ -1,0 +1,35 @@
+{
+  "name": "Restaurant Reviews Web App",
+  "short_name": "RestaurantsReviews",
+  "start_url": "/index.html?launcher=true",
+  "scope": "/",
+  "display": "standalone",
+  "description": "Restaraunt Reviews Application, PWA.",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#262931",
+  "icons": [
+    {
+      "src": "img/app_icons/app_icon_48px.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/app_icons/app_icon_96px.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/app_icons/app_icon_192px.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/app_icons/icon_512px.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
